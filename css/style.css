@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: chartreuse;
+}
